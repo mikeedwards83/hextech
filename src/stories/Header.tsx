@@ -2,6 +2,7 @@ import React from 'react';
 
 import { Button } from './Button';
 import './header.css';
+import '../styles/Index.scss';
 
 type User = {
   name: string;

@@ -18,11 +18,16 @@
     "@storybook/addon-essentials": "^6.4.20",
     "@storybook/addon-interactions": "^6.4.20",
     "@storybook/addon-links": "^6.4.20",
+    "@storybook/addon-postcss": "^2.0.0",
+    "@storybook/preset-scss": "^1.0.3",
     "@storybook/react": "^6.4.20",
     "@storybook/testing-library": "^0.0.9",
     "astro": "^0.25.4",
     "babel-loader": "^8.2.4",
-    "sass": "^1.49.11"
+    "css-loader": "^5.2.7",
+    "sass": "^1.49.11",
+    "sass-loader": "^10.1.1",
+    "style-loader": "^2.0.0"
   },
   "dependencies": {
     "@types/jest": "^27.4.1",
